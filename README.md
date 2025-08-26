@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0001-two-sum) |
+| [0824-number-of-lines-to-write-string](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [0824-number-of-lines-to-write-string](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 <!---LeetCode Topics End-->
