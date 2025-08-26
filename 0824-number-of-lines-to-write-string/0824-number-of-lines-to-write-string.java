@@ -3,7 +3,7 @@ class Solution {
         int line=1;
         int currentwidth=0;
         for(char c:s.toCharArray()){
-            int w=widths[c-'a'];
+            int w=widths[c-'a'];//it will take the index value of the element "If c = 'b' → c - 'a' = 1 → widths[1]"
             if(currentwidth+w > 100){
                 line ++;
                 currentwidth=w;
