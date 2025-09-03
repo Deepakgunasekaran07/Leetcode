@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0048-rotate-image) |
+| [0303-range-sum-query-immutable](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0822-unique-morse-code-words](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 ## Hash Table
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0048-rotate-image) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
