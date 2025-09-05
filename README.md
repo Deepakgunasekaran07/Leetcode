@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0822-unique-morse-code-words](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+## Sorting
+|  |
+| ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
