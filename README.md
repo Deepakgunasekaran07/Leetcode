@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0941-sort-array-by-parity](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1755-defuse-the-bomb](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
