@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0941-sort-array-by-parity](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0048-rotate-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Design
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1755-defuse-the-bomb) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
