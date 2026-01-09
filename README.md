@@ -93,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
