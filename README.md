@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1470-shuffle-the-array](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1929-concatenation-of-array) |
