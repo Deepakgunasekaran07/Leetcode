@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0941-sort-array-by-parity](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/0048-rotate-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deepakgunasekaran07/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
